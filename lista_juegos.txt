@@ -1,10 +1,10 @@
-PARTE 1|https://pixeldrain.com/api/file/fWsnYtLC
-PARTE 2|https://pixeldrain.com/api/file/8CHuiy2n
-PARTE 3|https://pixeldrain.com/api/file/1EDDRi2a
-PARTE 4|https://pixeldrain.com/api/file/N1cEzCFd
-PARTE 5|https://pixeldrain.com/api/file/iWzaA32q
-PARTE 6|https://pixeldrain.com/api/file/cheW5uzY
-PARTE 7|https://pixeldrain.com/api/file/b1TkxiMH
-PARTE 8|https://pixeldrain.com/api/file/fbFt92br
-PARTE 9|https://pixeldrain.com/api/file/dFMxsc24
-PARTE 10|https://pixeldrain.com/api/file/dwF2fjSn
+PARTE 1 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part1.zip
+PARTE 2 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part2.zip
+PARTE 3 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part3.zip
+PARTE 4 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part4.zip
+PARTE 5 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part5.zip
+PARTE 6 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part6.zip
+PARTE 7 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part7.zip
+PARTE 8 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part8.zip
+PARTE 9 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part9.zip
+PARTE 10 | https://archive.org/download/juegos-n-64-part-3/Juegos%20N64-part10.zip
